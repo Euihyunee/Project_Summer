@@ -1,7 +1,8 @@
 public class Client {
     public static void main(String args[]){
-        Heater heater = new Heater();
-        Lamp lamp = new Lamp();
+
+        Heater heater = new Heater();   // heater 생성
+        Lamp lamp = new Lamp();         // lamp 생성
 
         Command heaterOnCommand = new HeaterOnCommand(heater);
         Command lampOnCommand = new LampOnCommand(lamp);

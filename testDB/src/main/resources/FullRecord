@@ -1,0 +1,13253 @@
+{
+"fullRecordDTOs": [
+{
+"game_length": 2292.4739,
+"match_id": "KR_6008092812",
+"participantsPuuid": [
+"_OTF81a4nFJXvivCNtUL01skGoY0VaAoj7AsRzQNUpThZ0bieMLyDDJOryvSetjSnDVdKtMEtWAYoQ",
+"uxPoCWPmYUWzNXA-92O9hLVXFfhSxI5GurZmX_nYx4Jc5dGru9LoEpqeY0XO3cYVIFXr65lKuo0tRw",
+"5xks6-mhANZ4ZdHalJLzGmM3LFfvIJNNkLs5ZlilUSVjTf-FbIp04B3VRFhyyNpHDeUqgfmHZ4w0DA",
+"SORED-yCCCQ5sVhg9zzrACR-8xMxdRn29v8JI3rKKtWLpRTaO3jmindC9U1mfWzAvu-4qBJduQTEwQ",
+"5CdlPBy6ZVPqfgblWKr8xRFS308eTop8LmthsoloJo_Py4kaiALelXJ1VCKShvegXZimiUgSM7UABQ",
+"o0lzSNv1FZRtm012qfoq-o3KrXcMVYAFaQ4rTStHkBTYdJOiSeMsFwIOH3C2PcclSHR-RgRRtwYODw",
+"JyvINRuFNzBXc0bXx3kwK_LizyirwKJq_uik_SuY564YIVSSkcNMcsZIWSQuhWwwsBlyc4DtA9uLqA",
+"6SOk7lrv-igHylS_bVQu6vrVr6J1SCTT45U8FEGgvdw1TYG3j4WuKgFMyKoOex6u9v5z7ijrI3Y8bQ"
+],
+"participants": [
+{
+"augments": [
+"TFT6_Augment_RichGetRicher",
+"TFT7_Augment_SwiftshotPressTheAttack",
+"TFT6_Augment_Ascension"
+],
+"companion": {
+"content_ID": "2fc3a4c0-7322-4ef5-b434-0cea1d1997e6",
+"skin_ID": 1,
+"species": "PetChibiJinx"
+},
+"gold_left": 1,
+"last_round": 24,
+"level": 7,
+"placement": 8,
+"time_eliminated": 1449.0519,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [
+35
+],
+"character_id": "TFT7_Skarner",
+"itemNames": [
+"TFT_Item_LocketOfTheIronSolari"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Twitch",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+11,
+23
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_Deathblade",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+77
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_RichGetRicher",
+"TFT7_Augment_SwiftshotPressTheAttack",
+"TFT6_Augment_Ascension"
+],
+"companion": {
+"content_ID": "2fc3a4c0-7322-4ef5-b434-0cea1d1997e6",
+"skin_ID": 1,
+"species": "PetChibiJinx"
+},
+"gold_left": 1,
+"last_round": 24,
+"level": 7,
+"placement": 8,
+"time_eliminated": 1449.0519,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [
+35
+],
+"character_id": "TFT7_Skarner",
+"itemNames": [
+"TFT_Item_LocketOfTheIronSolari"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Twitch",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+11,
+23
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_Deathblade",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+77
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_RichGetRicher",
+"TFT7_Augment_SwiftshotPressTheAttack",
+"TFT6_Augment_Ascension"
+],
+"companion": {
+"content_ID": "2fc3a4c0-7322-4ef5-b434-0cea1d1997e6",
+"skin_ID": 1,
+"species": "PetChibiJinx"
+},
+"gold_left": 1,
+"last_round": 24,
+"level": 7,
+"placement": 8,
+"time_eliminated": 1449.0519,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [
+35
+],
+"character_id": "TFT7_Skarner",
+"itemNames": [
+"TFT_Item_LocketOfTheIronSolari"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Twitch",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+11,
+23
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_Deathblade",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+77
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_RichGetRicher",
+"TFT7_Augment_SwiftshotPressTheAttack",
+"TFT6_Augment_Ascension"
+],
+"companion": {
+"content_ID": "2fc3a4c0-7322-4ef5-b434-0cea1d1997e6",
+"skin_ID": 1,
+"species": "PetChibiJinx"
+},
+"gold_left": 1,
+"last_round": 24,
+"level": 7,
+"placement": 8,
+"time_eliminated": 1449.0519,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [
+35
+],
+"character_id": "TFT7_Skarner",
+"itemNames": [
+"TFT_Item_LocketOfTheIronSolari"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Twitch",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+11,
+23
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_Deathblade",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+77
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_RichGetRicher",
+"TFT7_Augment_SwiftshotPressTheAttack",
+"TFT6_Augment_Ascension"
+],
+"companion": {
+"content_ID": "2fc3a4c0-7322-4ef5-b434-0cea1d1997e6",
+"skin_ID": 1,
+"species": "PetChibiJinx"
+},
+"gold_left": 1,
+"last_round": 24,
+"level": 7,
+"placement": 8,
+"time_eliminated": 1449.0519,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [
+35
+],
+"character_id": "TFT7_Skarner",
+"itemNames": [
+"TFT_Item_LocketOfTheIronSolari"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Twitch",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+11,
+23
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_Deathblade",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+77
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_RichGetRicher",
+"TFT7_Augment_SwiftshotPressTheAttack",
+"TFT6_Augment_Ascension"
+],
+"companion": {
+"content_ID": "2fc3a4c0-7322-4ef5-b434-0cea1d1997e6",
+"skin_ID": 1,
+"species": "PetChibiJinx"
+},
+"gold_left": 1,
+"last_round": 24,
+"level": 7,
+"placement": 8,
+"time_eliminated": 1449.0519,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [
+35
+],
+"character_id": "TFT7_Skarner",
+"itemNames": [
+"TFT_Item_LocketOfTheIronSolari"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Twitch",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+11,
+23
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_Deathblade",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+77
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_RichGetRicher",
+"TFT7_Augment_SwiftshotPressTheAttack",
+"TFT6_Augment_Ascension"
+],
+"companion": {
+"content_ID": "2fc3a4c0-7322-4ef5-b434-0cea1d1997e6",
+"skin_ID": 1,
+"species": "PetChibiJinx"
+},
+"gold_left": 1,
+"last_round": 24,
+"level": 7,
+"placement": 8,
+"time_eliminated": 1449.0519,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [
+35
+],
+"character_id": "TFT7_Skarner",
+"itemNames": [
+"TFT_Item_LocketOfTheIronSolari"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Twitch",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+11,
+23
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_Deathblade",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+77
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_RichGetRicher",
+"TFT7_Augment_SwiftshotPressTheAttack",
+"TFT6_Augment_Ascension"
+],
+"companion": {
+"content_ID": "2fc3a4c0-7322-4ef5-b434-0cea1d1997e6",
+"skin_ID": 1,
+"species": "PetChibiJinx"
+},
+"gold_left": 1,
+"last_round": 24,
+"level": 7,
+"placement": 8,
+"time_eliminated": 1449.0519,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [
+35
+],
+"character_id": "TFT7_Skarner",
+"itemNames": [
+"TFT_Item_LocketOfTheIronSolari"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Twitch",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+11,
+23
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_Deathblade",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+77
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+}
+]
+},
+{
+"game_length": 2292.8628,
+"match_id": "KR_6008030159",
+"participantsPuuid": [
+"EEXytjjv0aGfW7EcDaeJofHXohiog_UktbawYi-xG-3b6ncrqh9R6Uy1Hdd5AGHMM_L2jwVroRv4JA",
+"GEBBTGQXglKOh5jCex5N2xlfnHTGQNsblQubir4IXqIn2eoFzTM3xWVZO-sNItgJhQJbZSChxlCL3g",
+"g-QD54WV0M--I9vQlCR5ZenTTuRZUJ6AZ4aOqsYKtePJzKwX7qUUZ1-TAUlNR9hJ2eP1FM-mGLN3mw",
+"yrhEOoA6lU8eRZ7MZtH2talJpVI4ATYHmUGdev2nfF0WKvfVLiR-sTRXrZt4wd2r3hHzjISfS-jSuQ",
+"2onnohIMwr_tPenpqsYwrC8DZfRXrt3xDCBh3IXf5sj-B7wf1cT7IKZB9yloBO0xeKRx_SR3k2MmVA",
+"_OTF81a4nFJXvivCNtUL01skGoY0VaAoj7AsRzQNUpThZ0bieMLyDDJOryvSetjSnDVdKtMEtWAYoQ",
+"uxPoCWPmYUWzNXA-92O9hLVXFfhSxI5GurZmX_nYx4Jc5dGru9LoEpqeY0XO3cYVIFXr65lKuo0tRw",
+"78jXghx4WU_lpu8d-twKe13LtBY6VpZoE-vPUMGEFGj6ZxE_1ejfgYqQGtmjLg7W4DCr9tZgEpg-xQ"
+],
+"participants": [
+{
+"augments": [
+"TFT7_Augment_AstralIntercosmicGifts",
+"TFT6_Augment_SecondWind2",
+"TFT6_Augment_PortableForge"
+],
+"companion": {
+"content_ID": "b890d4df-181a-43da-861d-99a72afbc602",
+"skin_ID": 2,
+"species": "PetChibiYasuo"
+},
+"gold_left": 0,
+"last_round": 26,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1641.0721,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Skarner",
+"itemNames": [],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Nidalee",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+46,
+34
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+14,
+39,
+19
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_JeweledGauntlet",
+"TFT_Item_InfinityEdge"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+49,
+69
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+56,
+9001,
+56
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT4_Item_OrnnAnimaVisage",
+"TFT_Item_GargoyleStoneplate"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_AstralIntercosmicGifts",
+"TFT6_Augment_SecondWind2",
+"TFT6_Augment_PortableForge"
+],
+"companion": {
+"content_ID": "b890d4df-181a-43da-861d-99a72afbc602",
+"skin_ID": 2,
+"species": "PetChibiYasuo"
+},
+"gold_left": 0,
+"last_round": 26,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1641.0721,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Skarner",
+"itemNames": [],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Nidalee",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+46,
+34
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+14,
+39,
+19
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_JeweledGauntlet",
+"TFT_Item_InfinityEdge"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+49,
+69
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+56,
+9001,
+56
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT4_Item_OrnnAnimaVisage",
+"TFT_Item_GargoyleStoneplate"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_AstralIntercosmicGifts",
+"TFT6_Augment_SecondWind2",
+"TFT6_Augment_PortableForge"
+],
+"companion": {
+"content_ID": "b890d4df-181a-43da-861d-99a72afbc602",
+"skin_ID": 2,
+"species": "PetChibiYasuo"
+},
+"gold_left": 0,
+"last_round": 26,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1641.0721,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Skarner",
+"itemNames": [],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Nidalee",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+46,
+34
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+14,
+39,
+19
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_JeweledGauntlet",
+"TFT_Item_InfinityEdge"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+49,
+69
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+56,
+9001,
+56
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT4_Item_OrnnAnimaVisage",
+"TFT_Item_GargoyleStoneplate"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_AstralIntercosmicGifts",
+"TFT6_Augment_SecondWind2",
+"TFT6_Augment_PortableForge"
+],
+"companion": {
+"content_ID": "b890d4df-181a-43da-861d-99a72afbc602",
+"skin_ID": 2,
+"species": "PetChibiYasuo"
+},
+"gold_left": 0,
+"last_round": 26,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1641.0721,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Skarner",
+"itemNames": [],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Nidalee",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+46,
+34
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+14,
+39,
+19
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_JeweledGauntlet",
+"TFT_Item_InfinityEdge"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+49,
+69
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+56,
+9001,
+56
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT4_Item_OrnnAnimaVisage",
+"TFT_Item_GargoyleStoneplate"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_AstralIntercosmicGifts",
+"TFT6_Augment_SecondWind2",
+"TFT6_Augment_PortableForge"
+],
+"companion": {
+"content_ID": "b890d4df-181a-43da-861d-99a72afbc602",
+"skin_ID": 2,
+"species": "PetChibiYasuo"
+},
+"gold_left": 0,
+"last_round": 26,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1641.0721,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Skarner",
+"itemNames": [],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Nidalee",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+46,
+34
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+14,
+39,
+19
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_JeweledGauntlet",
+"TFT_Item_InfinityEdge"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+49,
+69
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+56,
+9001,
+56
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT4_Item_OrnnAnimaVisage",
+"TFT_Item_GargoyleStoneplate"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_AstralIntercosmicGifts",
+"TFT6_Augment_SecondWind2",
+"TFT6_Augment_PortableForge"
+],
+"companion": {
+"content_ID": "b890d4df-181a-43da-861d-99a72afbc602",
+"skin_ID": 2,
+"species": "PetChibiYasuo"
+},
+"gold_left": 0,
+"last_round": 26,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1641.0721,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Skarner",
+"itemNames": [],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Nidalee",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+46,
+34
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+14,
+39,
+19
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_JeweledGauntlet",
+"TFT_Item_InfinityEdge"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+49,
+69
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+56,
+9001,
+56
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT4_Item_OrnnAnimaVisage",
+"TFT_Item_GargoyleStoneplate"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_AstralIntercosmicGifts",
+"TFT6_Augment_SecondWind2",
+"TFT6_Augment_PortableForge"
+],
+"companion": {
+"content_ID": "b890d4df-181a-43da-861d-99a72afbc602",
+"skin_ID": 2,
+"species": "PetChibiYasuo"
+},
+"gold_left": 0,
+"last_round": 26,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1641.0721,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Skarner",
+"itemNames": [],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Nidalee",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+46,
+34
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+14,
+39,
+19
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_JeweledGauntlet",
+"TFT_Item_InfinityEdge"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+49,
+69
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+56,
+9001,
+56
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT4_Item_OrnnAnimaVisage",
+"TFT_Item_GargoyleStoneplate"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_AstralIntercosmicGifts",
+"TFT6_Augment_SecondWind2",
+"TFT6_Augment_PortableForge"
+],
+"companion": {
+"content_ID": "b890d4df-181a-43da-861d-99a72afbc602",
+"skin_ID": 2,
+"species": "PetChibiYasuo"
+},
+"gold_left": 0,
+"last_round": 26,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1641.0721,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Guild",
+"num_units": 2,
+"style": 1,
+"tier_current": 2,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Skarner",
+"itemNames": [],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Nidalee",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+46,
+34
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+14,
+39,
+19
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_JeweledGauntlet",
+"TFT_Item_InfinityEdge"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+49,
+69
+],
+"character_id": "TFT7_Varus",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+56,
+9001,
+56
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT4_Item_OrnnAnimaVisage",
+"TFT_Item_GargoyleStoneplate"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Bard",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+}
+]
+},
+{
+"game_length": 2159.636,
+"match_id": "KR_5988203332",
+"participantsPuuid": [
+"ca0gHUIvjhnOXimb0U3nxrNw2H8i6YB2pLx3uHU2TePjc6KJADYQ37MXMKYDOD7d1OKMvuCXnPf1gg",
+"fKm2-UGPQH92cLhvhClettqcjItNlNw74esU_innNxWduEPS2GmT3loCmFr9168M7vBQT7rDnB1shA",
+"yx9TzBRwXWRC99IqGCir3a0MrAMbWSsaOI_y6mBRA0CZSiFRcDmRxp9fmEBrw-6X8qe_VukCsVZ6XQ",
+"OJzW-lfVXV1_Jd3QW5Sou9P2pyaKBJsscOfutkilV7kKX81hOtEBTlWXmlxcHN-fc9fbuM485A4Rew",
+"_OTF81a4nFJXvivCNtUL01skGoY0VaAoj7AsRzQNUpThZ0bieMLyDDJOryvSetjSnDVdKtMEtWAYoQ",
+"k-H1W7Q__wGlsw5F88cPXwPcL7yyOT2fgZBNHc3taFS5YqiwEmMagwV0BA1GZlDu1R2GS57Cx-zrmQ",
+"Aq7ItxVVxosHgOtOogAdYpIgQ9ZXi1_zWKvgbKss53lcRcmlxiBwHO_LcBOQFof9WL-X2zdpIdqImQ",
+"6MeT0AudGpXw2XJdcekElL4j333FlY9zN-2798w9IGwo9KPTTzyKbDS3DVmSVaE2xX2ls0SeImcMLg"
+],
+"participants": [
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing2",
+"TFT6_Augment_LudensEcho2",
+"TFT7_Augment_MysticTrait2"
+],
+"companion": {
+"content_ID": "5897ad9f-4665-4372-8f3e-6c878adb8918",
+"skin_ID": 1,
+"species": "PetTFTAvatar"
+},
+"gold_left": 11,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1872.8922,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 5,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Trainer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Heimerdinger",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+49,
+39,
+2317
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_JeweledGauntlet",
+"TFT7_Item_EvokerEmblemItem"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+34,
+14,
+13
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_ArchangelsStaff",
+"TFT_Item_SpearOfShojin",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+57,
+37
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_RedBuff",
+"TFT_Item_Morellonomicon"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+41105
+],
+"character_id": "TFT7_TrainerDragon",
+"itemNames": [
+"TFT7_Item_TrainerSnax"
+],
+"rarity": 8,
+"tier": 3
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing2",
+"TFT6_Augment_LudensEcho2",
+"TFT7_Augment_MysticTrait2"
+],
+"companion": {
+"content_ID": "5897ad9f-4665-4372-8f3e-6c878adb8918",
+"skin_ID": 1,
+"species": "PetTFTAvatar"
+},
+"gold_left": 11,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1872.8922,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 5,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Trainer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Heimerdinger",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+49,
+39,
+2317
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_JeweledGauntlet",
+"TFT7_Item_EvokerEmblemItem"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+34,
+14,
+13
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_ArchangelsStaff",
+"TFT_Item_SpearOfShojin",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+57,
+37
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_RedBuff",
+"TFT_Item_Morellonomicon"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+41105
+],
+"character_id": "TFT7_TrainerDragon",
+"itemNames": [
+"TFT7_Item_TrainerSnax"
+],
+"rarity": 8,
+"tier": 3
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing2",
+"TFT6_Augment_LudensEcho2",
+"TFT7_Augment_MysticTrait2"
+],
+"companion": {
+"content_ID": "5897ad9f-4665-4372-8f3e-6c878adb8918",
+"skin_ID": 1,
+"species": "PetTFTAvatar"
+},
+"gold_left": 11,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1872.8922,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 5,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Trainer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Heimerdinger",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+49,
+39,
+2317
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_JeweledGauntlet",
+"TFT7_Item_EvokerEmblemItem"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+34,
+14,
+13
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_ArchangelsStaff",
+"TFT_Item_SpearOfShojin",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+57,
+37
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_RedBuff",
+"TFT_Item_Morellonomicon"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+41105
+],
+"character_id": "TFT7_TrainerDragon",
+"itemNames": [
+"TFT7_Item_TrainerSnax"
+],
+"rarity": 8,
+"tier": 3
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing2",
+"TFT6_Augment_LudensEcho2",
+"TFT7_Augment_MysticTrait2"
+],
+"companion": {
+"content_ID": "5897ad9f-4665-4372-8f3e-6c878adb8918",
+"skin_ID": 1,
+"species": "PetTFTAvatar"
+},
+"gold_left": 11,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1872.8922,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 5,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Trainer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Heimerdinger",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+49,
+39,
+2317
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_JeweledGauntlet",
+"TFT7_Item_EvokerEmblemItem"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+34,
+14,
+13
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_ArchangelsStaff",
+"TFT_Item_SpearOfShojin",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+57,
+37
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_RedBuff",
+"TFT_Item_Morellonomicon"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+41105
+],
+"character_id": "TFT7_TrainerDragon",
+"itemNames": [
+"TFT7_Item_TrainerSnax"
+],
+"rarity": 8,
+"tier": 3
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing2",
+"TFT6_Augment_LudensEcho2",
+"TFT7_Augment_MysticTrait2"
+],
+"companion": {
+"content_ID": "5897ad9f-4665-4372-8f3e-6c878adb8918",
+"skin_ID": 1,
+"species": "PetTFTAvatar"
+},
+"gold_left": 11,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1872.8922,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 5,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Trainer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Heimerdinger",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+49,
+39,
+2317
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_JeweledGauntlet",
+"TFT7_Item_EvokerEmblemItem"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+34,
+14,
+13
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_ArchangelsStaff",
+"TFT_Item_SpearOfShojin",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+57,
+37
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_RedBuff",
+"TFT_Item_Morellonomicon"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+41105
+],
+"character_id": "TFT7_TrainerDragon",
+"itemNames": [
+"TFT7_Item_TrainerSnax"
+],
+"rarity": 8,
+"tier": 3
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing2",
+"TFT6_Augment_LudensEcho2",
+"TFT7_Augment_MysticTrait2"
+],
+"companion": {
+"content_ID": "5897ad9f-4665-4372-8f3e-6c878adb8918",
+"skin_ID": 1,
+"species": "PetTFTAvatar"
+},
+"gold_left": 11,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1872.8922,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 5,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Trainer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Heimerdinger",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+49,
+39,
+2317
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_JeweledGauntlet",
+"TFT7_Item_EvokerEmblemItem"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+34,
+14,
+13
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_ArchangelsStaff",
+"TFT_Item_SpearOfShojin",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+57,
+37
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_RedBuff",
+"TFT_Item_Morellonomicon"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+41105
+],
+"character_id": "TFT7_TrainerDragon",
+"itemNames": [
+"TFT7_Item_TrainerSnax"
+],
+"rarity": 8,
+"tier": 3
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing2",
+"TFT6_Augment_LudensEcho2",
+"TFT7_Augment_MysticTrait2"
+],
+"companion": {
+"content_ID": "5897ad9f-4665-4372-8f3e-6c878adb8918",
+"skin_ID": 1,
+"species": "PetTFTAvatar"
+},
+"gold_left": 11,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1872.8922,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 5,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Trainer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Heimerdinger",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+49,
+39,
+2317
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_JeweledGauntlet",
+"TFT7_Item_EvokerEmblemItem"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+34,
+14,
+13
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_ArchangelsStaff",
+"TFT_Item_SpearOfShojin",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+57,
+37
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_RedBuff",
+"TFT_Item_Morellonomicon"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+41105
+],
+"character_id": "TFT7_TrainerDragon",
+"itemNames": [
+"TFT7_Item_TrainerSnax"
+],
+"rarity": 8,
+"tier": 3
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing2",
+"TFT6_Augment_LudensEcho2",
+"TFT7_Augment_MysticTrait2"
+],
+"companion": {
+"content_ID": "5897ad9f-4665-4372-8f3e-6c878adb8918",
+"skin_ID": 1,
+"species": "PetTFTAvatar"
+},
+"gold_left": 11,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1872.8922,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mage",
+"num_units": 5,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Trainer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Vladimir",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Heimerdinger",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+49,
+39,
+2317
+],
+"character_id": "TFT7_Nami",
+"itemNames": [
+"TFT_Item_UnstableConcoction",
+"TFT_Item_JeweledGauntlet",
+"TFT7_Item_EvokerEmblemItem"
+],
+"rarity": 1,
+"tier": 3
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+34,
+14,
+13
+],
+"character_id": "TFT7_Ryze",
+"itemNames": [
+"TFT_Item_ArchangelsStaff",
+"TFT_Item_SpearOfShojin",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+57,
+37
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_RedBuff",
+"TFT_Item_Morellonomicon"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+41105
+],
+"character_id": "TFT7_TrainerDragon",
+"itemNames": [
+"TFT7_Item_TrainerSnax"
+],
+"rarity": 8,
+"tier": 3
+},
+null,
+null,
+null,
+null
+]
+}
+]
+},
+{
+"game_length": 2282.4536,
+"match_id": "KR_5987775183",
+"participantsPuuid": [
+"y0-1Rs7TIUrDFCBEcReNvK2rWxsM_2ocZa-6T1kP61za83_Spu3TzWxgHRCnjQMi6f93nqw_rZoruQ",
+"1jTGN5HSvSHu-oeuPKodg2490AYzQ8tBfvtvYDxM7VPy3JrztbPQ75CUKDJMU7F7E_IOqmkHlxBBcQ",
+"3M9UyXpemml2leu7WeH_MdYJYh8uwuw1BbAcfGPrre784abxfYnFyREv3snmfdXSY6iK9B_cn7YgbQ",
+"fm6Pe8O4urufDii1QRxMdFe03CMZTottDt4yJFoRYB5Fm0VNQy2SWRhbarv5fSdnE6xBLYrrF1mt9Q",
+"jX1pgSzMY6d7Xd-NtnflZpeDvUoqP2n8IkYv303Yj6nMk5zDGszO_71kb-PebpwaVJ_RzhOh9prR8w",
+"_OTF81a4nFJXvivCNtUL01skGoY0VaAoj7AsRzQNUpThZ0bieMLyDDJOryvSetjSnDVdKtMEtWAYoQ",
+"CZ-GbmCXPYpUdGERKd0FsxDU9_xcKyquZfrnEk9U3sz8hpe_YnFQL4UQLDW6HmBL5-wRlmBD7LfAEg",
+"AKwnJX9pfY_mbPqSYJRNs93b4rPQnGw0ZLSo1MXUbhvxryqE7Jv_te0Y_6nfB6UNZ8b01CpLsDpmMw"
+],
+"participants": [
+{
+"augments": [
+"TFT7_Augment_RagewingTantrum",
+"TFT6_Augment_ThriftShop",
+"TFT6_Augment_CelestialBlessing2"
+],
+"companion": {
+"content_ID": "964ce773-3cdd-4678-85d4-e989c0a79bd5",
+"skin_ID": 19,
+"species": "PetSennaBunny"
+},
+"gold_left": 12,
+"last_round": 24,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1397.3679,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 9,
+"style": 3,
+"tier_current": 3,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+17
+],
+"character_id": "TFT7_Aatrox",
+"itemNames": [
+"TFT_Item_ZekesHerald"
+],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+23,
+69,
+49
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_Quicksilver",
+"TFT_Item_UnstableConcoction"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shyvana",
+"itemNames": [],
+"rarity": 6,
+"tier": 2
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_RagewingTantrum",
+"TFT6_Augment_ThriftShop",
+"TFT6_Augment_CelestialBlessing2"
+],
+"companion": {
+"content_ID": "964ce773-3cdd-4678-85d4-e989c0a79bd5",
+"skin_ID": 19,
+"species": "PetSennaBunny"
+},
+"gold_left": 12,
+"last_round": 24,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1397.3679,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 9,
+"style": 3,
+"tier_current": 3,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+17
+],
+"character_id": "TFT7_Aatrox",
+"itemNames": [
+"TFT_Item_ZekesHerald"
+],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+23,
+69,
+49
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_Quicksilver",
+"TFT_Item_UnstableConcoction"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shyvana",
+"itemNames": [],
+"rarity": 6,
+"tier": 2
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_RagewingTantrum",
+"TFT6_Augment_ThriftShop",
+"TFT6_Augment_CelestialBlessing2"
+],
+"companion": {
+"content_ID": "964ce773-3cdd-4678-85d4-e989c0a79bd5",
+"skin_ID": 19,
+"species": "PetSennaBunny"
+},
+"gold_left": 12,
+"last_round": 24,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1397.3679,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 9,
+"style": 3,
+"tier_current": 3,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+17
+],
+"character_id": "TFT7_Aatrox",
+"itemNames": [
+"TFT_Item_ZekesHerald"
+],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+23,
+69,
+49
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_Quicksilver",
+"TFT_Item_UnstableConcoction"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shyvana",
+"itemNames": [],
+"rarity": 6,
+"tier": 2
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_RagewingTantrum",
+"TFT6_Augment_ThriftShop",
+"TFT6_Augment_CelestialBlessing2"
+],
+"companion": {
+"content_ID": "964ce773-3cdd-4678-85d4-e989c0a79bd5",
+"skin_ID": 19,
+"species": "PetSennaBunny"
+},
+"gold_left": 12,
+"last_round": 24,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1397.3679,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 9,
+"style": 3,
+"tier_current": 3,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+17
+],
+"character_id": "TFT7_Aatrox",
+"itemNames": [
+"TFT_Item_ZekesHerald"
+],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+23,
+69,
+49
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_Quicksilver",
+"TFT_Item_UnstableConcoction"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shyvana",
+"itemNames": [],
+"rarity": 6,
+"tier": 2
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_RagewingTantrum",
+"TFT6_Augment_ThriftShop",
+"TFT6_Augment_CelestialBlessing2"
+],
+"companion": {
+"content_ID": "964ce773-3cdd-4678-85d4-e989c0a79bd5",
+"skin_ID": 19,
+"species": "PetSennaBunny"
+},
+"gold_left": 12,
+"last_round": 24,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1397.3679,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 9,
+"style": 3,
+"tier_current": 3,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+17
+],
+"character_id": "TFT7_Aatrox",
+"itemNames": [
+"TFT_Item_ZekesHerald"
+],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+23,
+69,
+49
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_Quicksilver",
+"TFT_Item_UnstableConcoction"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shyvana",
+"itemNames": [],
+"rarity": 6,
+"tier": 2
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_RagewingTantrum",
+"TFT6_Augment_ThriftShop",
+"TFT6_Augment_CelestialBlessing2"
+],
+"companion": {
+"content_ID": "964ce773-3cdd-4678-85d4-e989c0a79bd5",
+"skin_ID": 19,
+"species": "PetSennaBunny"
+},
+"gold_left": 12,
+"last_round": 24,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1397.3679,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 9,
+"style": 3,
+"tier_current": 3,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+17
+],
+"character_id": "TFT7_Aatrox",
+"itemNames": [
+"TFT_Item_ZekesHerald"
+],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+23,
+69,
+49
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_Quicksilver",
+"TFT_Item_UnstableConcoction"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shyvana",
+"itemNames": [],
+"rarity": 6,
+"tier": 2
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_RagewingTantrum",
+"TFT6_Augment_ThriftShop",
+"TFT6_Augment_CelestialBlessing2"
+],
+"companion": {
+"content_ID": "964ce773-3cdd-4678-85d4-e989c0a79bd5",
+"skin_ID": 19,
+"species": "PetSennaBunny"
+},
+"gold_left": 12,
+"last_round": 24,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1397.3679,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 9,
+"style": 3,
+"tier_current": 3,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+17
+],
+"character_id": "TFT7_Aatrox",
+"itemNames": [
+"TFT_Item_ZekesHerald"
+],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+23,
+69,
+49
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_Quicksilver",
+"TFT_Item_UnstableConcoction"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shyvana",
+"itemNames": [],
+"rarity": 6,
+"tier": 2
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_RagewingTantrum",
+"TFT6_Augment_ThriftShop",
+"TFT6_Augment_CelestialBlessing2"
+],
+"companion": {
+"content_ID": "964ce773-3cdd-4678-85d4-e989c0a79bd5",
+"skin_ID": 19,
+"species": "PetSennaBunny"
+},
+"gold_left": 12,
+"last_round": 24,
+"level": 8,
+"placement": 7,
+"time_eliminated": 1397.3679,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 9,
+"style": 3,
+"tier_current": 3,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+17
+],
+"character_id": "TFT7_Aatrox",
+"itemNames": [
+"TFT_Item_ZekesHerald"
+],
+"rarity": 0,
+"tier": 3
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+23,
+69,
+49
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_Quicksilver",
+"TFT_Item_UnstableConcoction"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shyvana",
+"itemNames": [],
+"rarity": 6,
+"tier": 2
+},
+null,
+null,
+null,
+null
+]
+}
+]
+},
+{
+"game_length": 2272.5942,
+"match_id": "KR_5987740321",
+"participantsPuuid": [
+"DYNXTJAV9LGocIjwp25TeAyEaSSKdPVat58b0QhmfvoU51Vp2T0D6TgAHWImheBcpbmYZq7jLw-rFA",
+"VMogQx7ICiyWks-M6uE11l3SN-9-n9CGsg0PYFq8cW3Whoy-XUxfRQSHwG1JkFzTUhMqTZZzPJisbA",
+"_OTF81a4nFJXvivCNtUL01skGoY0VaAoj7AsRzQNUpThZ0bieMLyDDJOryvSetjSnDVdKtMEtWAYoQ",
+"AOKVzXhQWEoMCG8cz-z7DbrqkL_ahiJzR5qmhPgsKlwpiQI11nmch8kKVxksdvpD9sEoqcWTbYcZ_A",
+"RVUHfFUYzmnejgytmzvudz38bv3DWrfz8c5kvlQ01LtAs3aOsgFL8vtuZBdHV_7pLjacbrLkBjRtRA",
+"fOwKEwBolI_1W40-7T0lvvxjAlpD4N64k9fP4mGkTGTeyNUsvZ202Gn1YComf5cVYKGgx9GAm3C9Kg",
+"02mq9GoJLZPI9-YetDnP_sCJl0BjoeAgVekuDHHW1EaKyvAtmUjvEQ6Rm2-x5eFbmAdXXHsZfuD6Tw",
+"vEphsW_ZXRqCxqoDXphB37lJeYjzmU9eNZLcDMKo4O79kWlw5QL_o1cvMdpDjUe25xzh9WlR5Jsm2A"
+],
+"participants": [
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing1",
+"TFT6_Augment_TradeSectorPlus",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "d7e673eb-37fd-4605-bc30-70050f81ccc6",
+"skin_ID": 19,
+"species": "PetGemTiger"
+},
+"gold_left": 20,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1807.3123,
+"traits": [
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [
+77
+],
+"character_id": "TFT7_Sett",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Karma",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46,
+46,
+17
+],
+"character_id": "TFT7_LeeSin",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_Chalice",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+3
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_NeedlesslyLargeRod"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+23,
+25,
+69
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_TitansResolve",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+44
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SeraphsEmbrace"
+],
+"rarity": 2,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing1",
+"TFT6_Augment_TradeSectorPlus",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "d7e673eb-37fd-4605-bc30-70050f81ccc6",
+"skin_ID": 19,
+"species": "PetGemTiger"
+},
+"gold_left": 20,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1807.3123,
+"traits": [
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [
+77
+],
+"character_id": "TFT7_Sett",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Karma",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46,
+46,
+17
+],
+"character_id": "TFT7_LeeSin",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_Chalice",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+3
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_NeedlesslyLargeRod"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+23,
+25,
+69
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_TitansResolve",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+44
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SeraphsEmbrace"
+],
+"rarity": 2,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing1",
+"TFT6_Augment_TradeSectorPlus",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "d7e673eb-37fd-4605-bc30-70050f81ccc6",
+"skin_ID": 19,
+"species": "PetGemTiger"
+},
+"gold_left": 20,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1807.3123,
+"traits": [
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [
+77
+],
+"character_id": "TFT7_Sett",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Karma",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46,
+46,
+17
+],
+"character_id": "TFT7_LeeSin",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_Chalice",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+3
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_NeedlesslyLargeRod"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+23,
+25,
+69
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_TitansResolve",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+44
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SeraphsEmbrace"
+],
+"rarity": 2,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing1",
+"TFT6_Augment_TradeSectorPlus",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "d7e673eb-37fd-4605-bc30-70050f81ccc6",
+"skin_ID": 19,
+"species": "PetGemTiger"
+},
+"gold_left": 20,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1807.3123,
+"traits": [
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [
+77
+],
+"character_id": "TFT7_Sett",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Karma",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46,
+46,
+17
+],
+"character_id": "TFT7_LeeSin",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_Chalice",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+3
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_NeedlesslyLargeRod"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+23,
+25,
+69
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_TitansResolve",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+44
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SeraphsEmbrace"
+],
+"rarity": 2,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing1",
+"TFT6_Augment_TradeSectorPlus",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "d7e673eb-37fd-4605-bc30-70050f81ccc6",
+"skin_ID": 19,
+"species": "PetGemTiger"
+},
+"gold_left": 20,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1807.3123,
+"traits": [
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [
+77
+],
+"character_id": "TFT7_Sett",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Karma",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46,
+46,
+17
+],
+"character_id": "TFT7_LeeSin",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_Chalice",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+3
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_NeedlesslyLargeRod"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+23,
+25,
+69
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_TitansResolve",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+44
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SeraphsEmbrace"
+],
+"rarity": 2,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing1",
+"TFT6_Augment_TradeSectorPlus",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "d7e673eb-37fd-4605-bc30-70050f81ccc6",
+"skin_ID": 19,
+"species": "PetGemTiger"
+},
+"gold_left": 20,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1807.3123,
+"traits": [
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [
+77
+],
+"character_id": "TFT7_Sett",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Karma",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46,
+46,
+17
+],
+"character_id": "TFT7_LeeSin",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_Chalice",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+3
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_NeedlesslyLargeRod"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+23,
+25,
+69
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_TitansResolve",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+44
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SeraphsEmbrace"
+],
+"rarity": 2,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing1",
+"TFT6_Augment_TradeSectorPlus",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "d7e673eb-37fd-4605-bc30-70050f81ccc6",
+"skin_ID": 19,
+"species": "PetGemTiger"
+},
+"gold_left": 20,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1807.3123,
+"traits": [
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [
+77
+],
+"character_id": "TFT7_Sett",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Karma",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46,
+46,
+17
+],
+"character_id": "TFT7_LeeSin",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_Chalice",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+3
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_NeedlesslyLargeRod"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+23,
+25,
+69
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_TitansResolve",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+44
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SeraphsEmbrace"
+],
+"rarity": 2,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_CelestialBlessing1",
+"TFT6_Augment_TradeSectorPlus",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "d7e673eb-37fd-4605-bc30-70050f81ccc6",
+"skin_ID": 19,
+"species": "PetGemTiger"
+},
+"gold_left": 20,
+"last_round": 31,
+"level": 7,
+"placement": 5,
+"time_eliminated": 1807.3123,
+"traits": [
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [
+77
+],
+"character_id": "TFT7_Sett",
+"itemNames": [
+"TFT_Item_WarmogsArmor"
+],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Karma",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46,
+46,
+17
+],
+"character_id": "TFT7_LeeSin",
+"itemNames": [
+"TFT_Item_Chalice",
+"TFT_Item_Chalice",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+3
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_NeedlesslyLargeRod"
+],
+"rarity": 2,
+"tier": 3
+},
+{
+"items": [
+23,
+25,
+69
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_TitansResolve",
+"TFT_Item_Quicksilver"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+44
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SeraphsEmbrace"
+],
+"rarity": 2,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null
+]
+}
+]
+},
+{
+"game_length": 2357.689,
+"match_id": "KR_5986032603",
+"participantsPuuid": [
+"It7lTDZJlQq6HtjExrGDLien-Hi5j-1h6G-G79OI-vlkpc_NkRkiSVZj6btcxhXXoM2HGuOnTc9bHA",
+"u5Nfr03XZ4QD68uTvHfx59TFaXL-RUR0NFp9m0bs2CXI6p2bzFPgMrFnINnXfdKZ51IRImClFVGIXg",
+"PzeHp8SM0NgPWa5GFpeXNi5f70EQnS1XwoDBx6oli2rZ9lYQ1mu8CxpRzalb-xyJ3AuJ_Bwb4X8N0Q",
+"r1baDv2NLi3f1wSgfZq14y3XEVx6bU1OL1OHcAJTUz1BiUT3oSrEt4OJlozotfZn-C91SOSwCuD4-g",
+"twJHBg11DnqufXGNeR7mNXsYaRHnAFyTRFrMUuuJXNhCIS0RDe0QB9jJxk_OrZo6c8_24oAi2g4-YA",
+"_OTF81a4nFJXvivCNtUL01skGoY0VaAoj7AsRzQNUpThZ0bieMLyDDJOryvSetjSnDVdKtMEtWAYoQ",
+"CZ-GbmCXPYpUdGERKd0FsxDU9_xcKyquZfrnEk9U3sz8hpe_YnFQL4UQLDW6HmBL5-wRlmBD7LfAEg",
+"NM5NL3leyn9Ml8N87tmcBCahO008iQKlfJFP4XjsQ7avYjrLcTcIvvk42t40ZgEyVF0a9-qk3HiJuQ"
+],
+"participants": [
+{
+"augments": [
+"TFT6_Augment_TradeSector",
+"TFT7_Augment_WarriorTiamat",
+"TFT7_Augment_MirageHallucinate"
+],
+"companion": {
+"content_ID": "941f37bb-7938-4f65-86c9-520c2d911542",
+"skin_ID": 27,
+"species": "PetSGShisa"
+},
+"gold_left": 0,
+"last_round": 24,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1455.4966,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Guardian",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Mirage",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Scalescorn",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 4,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Aatrox",
+"itemNames": [],
+"rarity": 0,
+"tier": 1
+},
+{
+"items": [
+69,
+16,
+23
+],
+"character_id": "TFT7_Yone",
+"itemNames": [
+"TFT_Item_Quicksilver",
+"TFT_Item_Bloodthirster",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+47
+],
+"character_id": "TFT7_Shen",
+"itemNames": [
+"TFT_Item_Redemption"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Braum",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Olaf",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_DragonBlue",
+"itemNames": [],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_TradeSector",
+"TFT7_Augment_WarriorTiamat",
+"TFT7_Augment_MirageHallucinate"
+],
+"companion": {
+"content_ID": "941f37bb-7938-4f65-86c9-520c2d911542",
+"skin_ID": 27,
+"species": "PetSGShisa"
+},
+"gold_left": 0,
+"last_round": 24,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1455.4966,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Guardian",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Mirage",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Scalescorn",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 4,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Aatrox",
+"itemNames": [],
+"rarity": 0,
+"tier": 1
+},
+{
+"items": [
+69,
+16,
+23
+],
+"character_id": "TFT7_Yone",
+"itemNames": [
+"TFT_Item_Quicksilver",
+"TFT_Item_Bloodthirster",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+47
+],
+"character_id": "TFT7_Shen",
+"itemNames": [
+"TFT_Item_Redemption"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Braum",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Olaf",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_DragonBlue",
+"itemNames": [],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_TradeSector",
+"TFT7_Augment_WarriorTiamat",
+"TFT7_Augment_MirageHallucinate"
+],
+"companion": {
+"content_ID": "941f37bb-7938-4f65-86c9-520c2d911542",
+"skin_ID": 27,
+"species": "PetSGShisa"
+},
+"gold_left": 0,
+"last_round": 24,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1455.4966,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Guardian",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Mirage",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Scalescorn",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 4,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Aatrox",
+"itemNames": [],
+"rarity": 0,
+"tier": 1
+},
+{
+"items": [
+69,
+16,
+23
+],
+"character_id": "TFT7_Yone",
+"itemNames": [
+"TFT_Item_Quicksilver",
+"TFT_Item_Bloodthirster",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+47
+],
+"character_id": "TFT7_Shen",
+"itemNames": [
+"TFT_Item_Redemption"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Braum",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Olaf",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_DragonBlue",
+"itemNames": [],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_TradeSector",
+"TFT7_Augment_WarriorTiamat",
+"TFT7_Augment_MirageHallucinate"
+],
+"companion": {
+"content_ID": "941f37bb-7938-4f65-86c9-520c2d911542",
+"skin_ID": 27,
+"species": "PetSGShisa"
+},
+"gold_left": 0,
+"last_round": 24,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1455.4966,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Guardian",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Mirage",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Scalescorn",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 4,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Aatrox",
+"itemNames": [],
+"rarity": 0,
+"tier": 1
+},
+{
+"items": [
+69,
+16,
+23
+],
+"character_id": "TFT7_Yone",
+"itemNames": [
+"TFT_Item_Quicksilver",
+"TFT_Item_Bloodthirster",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+47
+],
+"character_id": "TFT7_Shen",
+"itemNames": [
+"TFT_Item_Redemption"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Braum",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Olaf",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_DragonBlue",
+"itemNames": [],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_TradeSector",
+"TFT7_Augment_WarriorTiamat",
+"TFT7_Augment_MirageHallucinate"
+],
+"companion": {
+"content_ID": "941f37bb-7938-4f65-86c9-520c2d911542",
+"skin_ID": 27,
+"species": "PetSGShisa"
+},
+"gold_left": 0,
+"last_round": 24,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1455.4966,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Guardian",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Mirage",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Scalescorn",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 4,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Aatrox",
+"itemNames": [],
+"rarity": 0,
+"tier": 1
+},
+{
+"items": [
+69,
+16,
+23
+],
+"character_id": "TFT7_Yone",
+"itemNames": [
+"TFT_Item_Quicksilver",
+"TFT_Item_Bloodthirster",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+47
+],
+"character_id": "TFT7_Shen",
+"itemNames": [
+"TFT_Item_Redemption"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Braum",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Olaf",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_DragonBlue",
+"itemNames": [],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_TradeSector",
+"TFT7_Augment_WarriorTiamat",
+"TFT7_Augment_MirageHallucinate"
+],
+"companion": {
+"content_ID": "941f37bb-7938-4f65-86c9-520c2d911542",
+"skin_ID": 27,
+"species": "PetSGShisa"
+},
+"gold_left": 0,
+"last_round": 24,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1455.4966,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Guardian",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Mirage",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Scalescorn",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 4,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Aatrox",
+"itemNames": [],
+"rarity": 0,
+"tier": 1
+},
+{
+"items": [
+69,
+16,
+23
+],
+"character_id": "TFT7_Yone",
+"itemNames": [
+"TFT_Item_Quicksilver",
+"TFT_Item_Bloodthirster",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+47
+],
+"character_id": "TFT7_Shen",
+"itemNames": [
+"TFT_Item_Redemption"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Braum",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Olaf",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_DragonBlue",
+"itemNames": [],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_TradeSector",
+"TFT7_Augment_WarriorTiamat",
+"TFT7_Augment_MirageHallucinate"
+],
+"companion": {
+"content_ID": "941f37bb-7938-4f65-86c9-520c2d911542",
+"skin_ID": 27,
+"species": "PetSGShisa"
+},
+"gold_left": 0,
+"last_round": 24,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1455.4966,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Guardian",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Mirage",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Scalescorn",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 4,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Aatrox",
+"itemNames": [],
+"rarity": 0,
+"tier": 1
+},
+{
+"items": [
+69,
+16,
+23
+],
+"character_id": "TFT7_Yone",
+"itemNames": [
+"TFT_Item_Quicksilver",
+"TFT_Item_Bloodthirster",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+47
+],
+"character_id": "TFT7_Shen",
+"itemNames": [
+"TFT_Item_Redemption"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Braum",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Olaf",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_DragonBlue",
+"itemNames": [],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_TradeSector",
+"TFT7_Augment_WarriorTiamat",
+"TFT7_Augment_MirageHallucinate"
+],
+"companion": {
+"content_ID": "941f37bb-7938-4f65-86c9-520c2d911542",
+"skin_ID": 27,
+"species": "PetSGShisa"
+},
+"gold_left": 0,
+"last_round": 24,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1455.4966,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Guardian",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Mirage",
+"num_units": 4,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Scalescorn",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 4,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Aatrox",
+"itemNames": [],
+"rarity": 0,
+"tier": 1
+},
+{
+"items": [
+69,
+16,
+23
+],
+"character_id": "TFT7_Yone",
+"itemNames": [
+"TFT_Item_Quicksilver",
+"TFT_Item_Bloodthirster",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+47
+],
+"character_id": "TFT7_Shen",
+"itemNames": [
+"TFT_Item_Redemption"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Braum",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Olaf",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_DragonBlue",
+"itemNames": [],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+}
+]
+},
+{
+"game_length": 2530.269,
+"match_id": "KR_5986070468",
+"participantsPuuid": [
+"UKlmf8Y5jlDtY5aGkBaUwhCJJ_MmtxLXSuRGHv4ixs0lOYfcj9Sy5362QC_Fcdl1irUCtzJDxCmoBw",
+"q_-oeF0aCGPhtfcd-qdnr6bmbex4dmcOIFy5LevX4X7LA4LmxzP4ZaxS7zdZkpfP0qp2CwGbibvcFA",
+"_OTF81a4nFJXvivCNtUL01skGoY0VaAoj7AsRzQNUpThZ0bieMLyDDJOryvSetjSnDVdKtMEtWAYoQ",
+"iGJ3RCmjE6ZTFWh0T-xecoEpjNPFFpv8fWOufAwZDC3odVu1k3hNKAr0HAoK1_yF7nz4BX4TC4OIwg",
+"Jm0URn5kHkfOfYYxF3gBsHiPqXGM36qiELXt47Of6VeYywMYXiw9rYfDixX_EfSJQKL5kuF9f1ErMw",
+"tGQlGiFcpQbX3qSTKX0JmWdc1e74U9AmioUzwv5ZogeAH0RtBce1PRoiza0mJpX8Xlpybtzhl0EgBg",
+"E-k9xjNM2DE4tF_jURcV6kFZcQfg_jSGVwvmI8L_71fStU9wkFlqWbYuddgluislqMKjA6TlUZVO6Q",
+"qSTP1gErku2Detn7y_DfkFyIFD_gl7sSoVYfBw1BILOkmAFK574OB1qnbCTMaxIdD94GU1aZ8mjB_Q"
+],
+"participants": [
+{
+"augments": [
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_MakeshiftArmor3",
+"TFT6_Augment_SunfireBoard"
+],
+"companion": {
+"content_ID": "20c6d887-e18b-49a6-9983-ac052e7eeced",
+"skin_ID": 22,
+"species": "PetPenguKnight"
+},
+"gold_left": 22,
+"last_round": 26,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1637.2664,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Trainer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 2
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Nami",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Gnar",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [
+79
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_PowerGauntlet"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+14,
+34
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Neeko",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [
+56,
+49,
+12
+],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT_Item_UnstableConcoction",
+"TFT_Item_MadredsBloodrazor"
+],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_MakeshiftArmor3",
+"TFT6_Augment_SunfireBoard"
+],
+"companion": {
+"content_ID": "20c6d887-e18b-49a6-9983-ac052e7eeced",
+"skin_ID": 22,
+"species": "PetPenguKnight"
+},
+"gold_left": 22,
+"last_round": 26,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1637.2664,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Trainer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 2
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Nami",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Gnar",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [
+79
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_PowerGauntlet"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+14,
+34
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Neeko",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [
+56,
+49,
+12
+],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT_Item_UnstableConcoction",
+"TFT_Item_MadredsBloodrazor"
+],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_MakeshiftArmor3",
+"TFT6_Augment_SunfireBoard"
+],
+"companion": {
+"content_ID": "20c6d887-e18b-49a6-9983-ac052e7eeced",
+"skin_ID": 22,
+"species": "PetPenguKnight"
+},
+"gold_left": 22,
+"last_round": 26,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1637.2664,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Trainer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 2
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Nami",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Gnar",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [
+79
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_PowerGauntlet"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+14,
+34
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Neeko",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [
+56,
+49,
+12
+],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT_Item_UnstableConcoction",
+"TFT_Item_MadredsBloodrazor"
+],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_MakeshiftArmor3",
+"TFT6_Augment_SunfireBoard"
+],
+"companion": {
+"content_ID": "20c6d887-e18b-49a6-9983-ac052e7eeced",
+"skin_ID": 22,
+"species": "PetPenguKnight"
+},
+"gold_left": 22,
+"last_round": 26,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1637.2664,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Trainer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 2
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Nami",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Gnar",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [
+79
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_PowerGauntlet"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+14,
+34
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Neeko",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [
+56,
+49,
+12
+],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT_Item_UnstableConcoction",
+"TFT_Item_MadredsBloodrazor"
+],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_MakeshiftArmor3",
+"TFT6_Augment_SunfireBoard"
+],
+"companion": {
+"content_ID": "20c6d887-e18b-49a6-9983-ac052e7eeced",
+"skin_ID": 22,
+"species": "PetPenguKnight"
+},
+"gold_left": 22,
+"last_round": 26,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1637.2664,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Trainer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 2
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Nami",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Gnar",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [
+79
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_PowerGauntlet"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+14,
+34
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Neeko",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [
+56,
+49,
+12
+],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT_Item_UnstableConcoction",
+"TFT_Item_MadredsBloodrazor"
+],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_MakeshiftArmor3",
+"TFT6_Augment_SunfireBoard"
+],
+"companion": {
+"content_ID": "20c6d887-e18b-49a6-9983-ac052e7eeced",
+"skin_ID": 22,
+"species": "PetPenguKnight"
+},
+"gold_left": 22,
+"last_round": 26,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1637.2664,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Trainer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 2
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Nami",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Gnar",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [
+79
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_PowerGauntlet"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+14,
+34
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Neeko",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [
+56,
+49,
+12
+],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT_Item_UnstableConcoction",
+"TFT_Item_MadredsBloodrazor"
+],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_MakeshiftArmor3",
+"TFT6_Augment_SunfireBoard"
+],
+"companion": {
+"content_ID": "20c6d887-e18b-49a6-9983-ac052e7eeced",
+"skin_ID": 22,
+"species": "PetPenguKnight"
+},
+"gold_left": 22,
+"last_round": 26,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1637.2664,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Trainer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 2
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Nami",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Gnar",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [
+79
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_PowerGauntlet"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+14,
+34
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Neeko",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [
+56,
+49,
+12
+],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT_Item_UnstableConcoction",
+"TFT_Item_MadredsBloodrazor"
+],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_MakeshiftArmor3",
+"TFT6_Augment_SunfireBoard"
+],
+"companion": {
+"content_ID": "20c6d887-e18b-49a6-9983-ac052e7eeced",
+"skin_ID": 22,
+"species": "PetPenguKnight"
+},
+"gold_left": 22,
+"last_round": 26,
+"level": 7,
+"placement": 7,
+"time_eliminated": 1637.2664,
+"traits": [
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Dragon",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 2
+},
+{
+"name": "Set7_Evoker",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 6,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mystic",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Trainer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 2
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Nami",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Gnar",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [
+79
+],
+"character_id": "TFT7_Lulu",
+"itemNames": [
+"TFT_Item_PowerGauntlet"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+14,
+34
+],
+"character_id": "TFT7_Anivia",
+"itemNames": [
+"TFT_Item_SpearOfShojin",
+"TFT_Item_ArchangelsStaff"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Neeko",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [
+56,
+49,
+12
+],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [
+"TFT_Item_GargoyleStoneplate",
+"TFT_Item_UnstableConcoction",
+"TFT_Item_MadredsBloodrazor"
+],
+"rarity": 4,
+"tier": 2
+},
+null,
+null,
+null,
+null,
+null,
+null
+]
+}
+]
+},
+{
+"game_length": 2398.329,
+"match_id": "KR_5985897704",
+"participantsPuuid": [
+"oYaieB13Kr2Ey4wNYuAzpiQ9Dv7QgfT2w8YB-5P0Wu7NPUxooyOgztJXSWkbA4eE2VWrS0z3u1a8JA",
+"_OTF81a4nFJXvivCNtUL01skGoY0VaAoj7AsRzQNUpThZ0bieMLyDDJOryvSetjSnDVdKtMEtWAYoQ",
+"8emlAhZjIWW3YwUvtxE3XQ3BMCtfivMwCX6bFMUD8jJKG_pNWW348Lcw5uHYflmEMH3rp5TOJ5ixcA",
+"ZGDZ7081BqOme_P1AGbsTl0CPRA_oqQwWUT69jXc4dqnVJiSY7KLL57zD5PGj6rNrdY0FMIIz2RlZw",
+"ZAa8EIcwtAlcJOxFeTwok2Y-tujp9G3tHnYL5xntM_0NUE-8oR1Bww1aUxYe96QUjda0qQKwuMEcuw",
+"Dqw-0xO4_IiE8s1bcpnm8U6J8w-XEpzUdqtTPaSGdI_2i4DfSPz7n9E8srGQQTT68v2TjFbixWG11g",
+"6KA-tbRnV5dyR4lkZ2PTbo3jMfi4-CzNRcFtWE9VE7jqRVYDdBFSS7z74sa1ihtIvKnj8F8f77X8TQ",
+"SzEuOCITLt5wxOuqox4Skr4tY-rRIbkX1LOV_3DcJGKp1YyyyDFFHagbsi5nNIx0Adf3Awk3Rhpimg"
+],
+"participants": [
+{
+"augments": [
+"TFT7_Augment_Bloodlust1",
+"TFT6_Augment_CelestialBlessing2",
+"TFT7_Augment_DragonmancerEmblem"
+],
+"companion": {
+"content_ID": "ea8f1da8-86bb-427f-a0f7-1a173f43eb01",
+"skin_ID": 16,
+"species": "PetBellswayer"
+},
+"gold_left": 35,
+"last_round": 23,
+"level": 8,
+"placement": 8,
+"time_eliminated": 1393.0902,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 3,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_LeeSin",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+9,
+23
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_SparringGloves",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Anivia",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+2426,
+45
+],
+"character_id": "TFT7_Neeko",
+"itemNames": [
+"TFT7_Item_DragonmancerEmblemItem",
+"TFT_Item_FrozenHeart"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_Bloodlust1",
+"TFT6_Augment_CelestialBlessing2",
+"TFT7_Augment_DragonmancerEmblem"
+],
+"companion": {
+"content_ID": "ea8f1da8-86bb-427f-a0f7-1a173f43eb01",
+"skin_ID": 16,
+"species": "PetBellswayer"
+},
+"gold_left": 35,
+"last_round": 23,
+"level": 8,
+"placement": 8,
+"time_eliminated": 1393.0902,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 3,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_LeeSin",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+9,
+23
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_SparringGloves",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Anivia",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+2426,
+45
+],
+"character_id": "TFT7_Neeko",
+"itemNames": [
+"TFT7_Item_DragonmancerEmblemItem",
+"TFT_Item_FrozenHeart"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_Bloodlust1",
+"TFT6_Augment_CelestialBlessing2",
+"TFT7_Augment_DragonmancerEmblem"
+],
+"companion": {
+"content_ID": "ea8f1da8-86bb-427f-a0f7-1a173f43eb01",
+"skin_ID": 16,
+"species": "PetBellswayer"
+},
+"gold_left": 35,
+"last_round": 23,
+"level": 8,
+"placement": 8,
+"time_eliminated": 1393.0902,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 3,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_LeeSin",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+9,
+23
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_SparringGloves",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Anivia",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+2426,
+45
+],
+"character_id": "TFT7_Neeko",
+"itemNames": [
+"TFT7_Item_DragonmancerEmblemItem",
+"TFT_Item_FrozenHeart"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_Bloodlust1",
+"TFT6_Augment_CelestialBlessing2",
+"TFT7_Augment_DragonmancerEmblem"
+],
+"companion": {
+"content_ID": "ea8f1da8-86bb-427f-a0f7-1a173f43eb01",
+"skin_ID": 16,
+"species": "PetBellswayer"
+},
+"gold_left": 35,
+"last_round": 23,
+"level": 8,
+"placement": 8,
+"time_eliminated": 1393.0902,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 3,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_LeeSin",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+9,
+23
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_SparringGloves",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Anivia",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+2426,
+45
+],
+"character_id": "TFT7_Neeko",
+"itemNames": [
+"TFT7_Item_DragonmancerEmblemItem",
+"TFT_Item_FrozenHeart"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_Bloodlust1",
+"TFT6_Augment_CelestialBlessing2",
+"TFT7_Augment_DragonmancerEmblem"
+],
+"companion": {
+"content_ID": "ea8f1da8-86bb-427f-a0f7-1a173f43eb01",
+"skin_ID": 16,
+"species": "PetBellswayer"
+},
+"gold_left": 35,
+"last_round": 23,
+"level": 8,
+"placement": 8,
+"time_eliminated": 1393.0902,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 3,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_LeeSin",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+9,
+23
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_SparringGloves",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Anivia",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+2426,
+45
+],
+"character_id": "TFT7_Neeko",
+"itemNames": [
+"TFT7_Item_DragonmancerEmblemItem",
+"TFT_Item_FrozenHeart"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_Bloodlust1",
+"TFT6_Augment_CelestialBlessing2",
+"TFT7_Augment_DragonmancerEmblem"
+],
+"companion": {
+"content_ID": "ea8f1da8-86bb-427f-a0f7-1a173f43eb01",
+"skin_ID": 16,
+"species": "PetBellswayer"
+},
+"gold_left": 35,
+"last_round": 23,
+"level": 8,
+"placement": 8,
+"time_eliminated": 1393.0902,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 3,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_LeeSin",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+9,
+23
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_SparringGloves",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Anivia",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+2426,
+45
+],
+"character_id": "TFT7_Neeko",
+"itemNames": [
+"TFT7_Item_DragonmancerEmblemItem",
+"TFT_Item_FrozenHeart"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_Bloodlust1",
+"TFT6_Augment_CelestialBlessing2",
+"TFT7_Augment_DragonmancerEmblem"
+],
+"companion": {
+"content_ID": "ea8f1da8-86bb-427f-a0f7-1a173f43eb01",
+"skin_ID": 16,
+"species": "PetBellswayer"
+},
+"gold_left": 35,
+"last_round": 23,
+"level": 8,
+"placement": 8,
+"time_eliminated": 1393.0902,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 3,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_LeeSin",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+9,
+23
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_SparringGloves",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Anivia",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+2426,
+45
+],
+"character_id": "TFT7_Neeko",
+"itemNames": [
+"TFT7_Item_DragonmancerEmblemItem",
+"TFT_Item_FrozenHeart"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT7_Augment_Bloodlust1",
+"TFT6_Augment_CelestialBlessing2",
+"TFT7_Augment_DragonmancerEmblem"
+],
+"companion": {
+"content_ID": "ea8f1da8-86bb-427f-a0f7-1a173f43eb01",
+"skin_ID": 16,
+"species": "PetBellswayer"
+},
+"gold_left": 35,
+"last_round": 23,
+"level": 8,
+"placement": 8,
+"time_eliminated": 1393.0902,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 6,
+"style": 3,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Evoker",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Jade",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Legend",
+"num_units": 3,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 2,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Tempest",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Ashe",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_LeeSin",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Swain",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+9,
+23
+],
+"character_id": "TFT7_Volibear",
+"itemNames": [
+"TFT_Item_SparringGloves",
+"TFT_Item_GuinsoosRageblade"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Anivia",
+"itemNames": [],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [
+2426,
+45
+],
+"character_id": "TFT7_Neeko",
+"itemNames": [
+"TFT7_Item_DragonmancerEmblemItem",
+"TFT_Item_FrozenHeart"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+null,
+null,
+null,
+null
+]
+}
+]
+},
+{
+"game_length": 2282.2007,
+"match_id": "KR_5984033833",
+"participantsPuuid": [
+"WSh6yA__haKP6dJ3eTO76NO7P_f4LsOow_6vTGVMf7-IEO5_FQHtg6rr8TQIy8yPEYoFNE4WyvhR0Q",
+"nnV1yQlxXw90aEidITnWgW10quH_2vAYOviT34D_aFgYAtXaXp3QIfx558y-tyOLK0p91buUOZFwOw",
+"wbj36C-sPf9HHy_GJ2hkIvvD383Dx3G_WgaQ38N0IO12QVLq0vPHwwP2xBQzMDvhk6ALNE9ikOOsYw",
+"rAXWikhkBlFc0rVByIyQVFPW8vOs6EVRwpxoTyRoChJL8nqcORLyadhUPP5RfqdAPA3s0V2mOb83tQ",
+"_OTF81a4nFJXvivCNtUL01skGoY0VaAoj7AsRzQNUpThZ0bieMLyDDJOryvSetjSnDVdKtMEtWAYoQ",
+"qkqM2e4Rc5q8igKvvePwXrFkrzkre3zYk_NsqyCDmvIAv9wfFDYTFsx-TKA-K8Z3WwlGHdXRAwo6hQ",
+"nu_GlJNwENWuN2uHSXR_v7hbNNs5AqFNC8zZrdeRrhBZfx1OzX6ySrJBZhcb7zIUFnjew6YjB5-XYg",
+"Qi8VMskzrcryWyPImdAUFZ3jIqTO8gJIH2YbaSJPf5k5G2AYqPa0Dpim0xIXUx0GHVxOyCAm_n-LRg"
+],
+"participants": [
+{
+"augments": [
+"TFT6_Augment_PandorasItems",
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "8e4b132f-4289-4871-904d-b6a27d8e2aee",
+"skin_ID": 24,
+"species": "PetFairy"
+},
+"gold_left": 1,
+"last_round": 31,
+"level": 7,
+"placement": 6,
+"time_eliminated": 1844.1128,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mirage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Revel",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_TahmKench",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+23,
+17
+],
+"character_id": "TFT7_Jinx",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+12,
+23,
+13
+],
+"character_id": "TFT7_Corki",
+"itemNames": [
+"TFT_Item_MadredsBloodrazor",
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [],
+"rarity": 4,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Yasuo",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_PandorasItems",
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "8e4b132f-4289-4871-904d-b6a27d8e2aee",
+"skin_ID": 24,
+"species": "PetFairy"
+},
+"gold_left": 1,
+"last_round": 31,
+"level": 7,
+"placement": 6,
+"time_eliminated": 1844.1128,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mirage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Revel",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_TahmKench",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+23,
+17
+],
+"character_id": "TFT7_Jinx",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+12,
+23,
+13
+],
+"character_id": "TFT7_Corki",
+"itemNames": [
+"TFT_Item_MadredsBloodrazor",
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [],
+"rarity": 4,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Yasuo",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_PandorasItems",
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "8e4b132f-4289-4871-904d-b6a27d8e2aee",
+"skin_ID": 24,
+"species": "PetFairy"
+},
+"gold_left": 1,
+"last_round": 31,
+"level": 7,
+"placement": 6,
+"time_eliminated": 1844.1128,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mirage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Revel",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_TahmKench",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+23,
+17
+],
+"character_id": "TFT7_Jinx",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+12,
+23,
+13
+],
+"character_id": "TFT7_Corki",
+"itemNames": [
+"TFT_Item_MadredsBloodrazor",
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [],
+"rarity": 4,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Yasuo",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_PandorasItems",
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "8e4b132f-4289-4871-904d-b6a27d8e2aee",
+"skin_ID": 24,
+"species": "PetFairy"
+},
+"gold_left": 1,
+"last_round": 31,
+"level": 7,
+"placement": 6,
+"time_eliminated": 1844.1128,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mirage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Revel",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_TahmKench",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+23,
+17
+],
+"character_id": "TFT7_Jinx",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+12,
+23,
+13
+],
+"character_id": "TFT7_Corki",
+"itemNames": [
+"TFT_Item_MadredsBloodrazor",
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [],
+"rarity": 4,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Yasuo",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_PandorasItems",
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "8e4b132f-4289-4871-904d-b6a27d8e2aee",
+"skin_ID": 24,
+"species": "PetFairy"
+},
+"gold_left": 1,
+"last_round": 31,
+"level": 7,
+"placement": 6,
+"time_eliminated": 1844.1128,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mirage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Revel",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_TahmKench",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+23,
+17
+],
+"character_id": "TFT7_Jinx",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+12,
+23,
+13
+],
+"character_id": "TFT7_Corki",
+"itemNames": [
+"TFT_Item_MadredsBloodrazor",
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [],
+"rarity": 4,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Yasuo",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_PandorasItems",
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "8e4b132f-4289-4871-904d-b6a27d8e2aee",
+"skin_ID": 24,
+"species": "PetFairy"
+},
+"gold_left": 1,
+"last_round": 31,
+"level": 7,
+"placement": 6,
+"time_eliminated": 1844.1128,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mirage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Revel",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_TahmKench",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+23,
+17
+],
+"character_id": "TFT7_Jinx",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+12,
+23,
+13
+],
+"character_id": "TFT7_Corki",
+"itemNames": [
+"TFT_Item_MadredsBloodrazor",
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [],
+"rarity": 4,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Yasuo",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_PandorasItems",
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "8e4b132f-4289-4871-904d-b6a27d8e2aee",
+"skin_ID": 24,
+"species": "PetFairy"
+},
+"gold_left": 1,
+"last_round": 31,
+"level": 7,
+"placement": 6,
+"time_eliminated": 1844.1128,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mirage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Revel",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_TahmKench",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+23,
+17
+],
+"character_id": "TFT7_Jinx",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+12,
+23,
+13
+],
+"character_id": "TFT7_Corki",
+"itemNames": [
+"TFT_Item_MadredsBloodrazor",
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [],
+"rarity": 4,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Yasuo",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_PandorasItems",
+"TFT6_Augment_ThrillOfTheHunt2",
+"TFT6_Augment_JeweledLotus"
+],
+"companion": {
+"content_ID": "8e4b132f-4289-4871-904d-b6a27d8e2aee",
+"skin_ID": 24,
+"species": "PetFairy"
+},
+"gold_left": 1,
+"last_round": 31,
+"level": 7,
+"placement": 6,
+"time_eliminated": 1844.1128,
+"traits": [
+{
+"name": "Set7_Bruiser",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Legend",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 1
+},
+{
+"name": "Set7_Mage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Mirage",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Revel",
+"num_units": 3,
+"style": 2,
+"tier_current": 2,
+"tier_total": 4
+},
+{
+"name": "Set7_Tempest",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Whispers",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_TahmKench",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [
+23,
+17
+],
+"character_id": "TFT7_Jinx",
+"itemNames": [
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_ZekesHerald"
+],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Sylas",
+"itemNames": [],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+12,
+23,
+13
+],
+"character_id": "TFT7_Corki",
+"itemNames": [
+"TFT_Item_MadredsBloodrazor",
+"TFT_Item_GuinsoosRageblade",
+"TFT_Item_HextechGunblade"
+],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Ornn",
+"itemNames": [],
+"rarity": 3,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_DragonGreen",
+"itemNames": [],
+"rarity": 4,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Yasuo",
+"itemNames": [],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null,
+null,
+null
+]
+}
+]
+},
+{
+"game_length": 2110.9155,
+"match_id": "KR_5983795196",
+"participantsPuuid": [
+"_OTF81a4nFJXvivCNtUL01skGoY0VaAoj7AsRzQNUpThZ0bieMLyDDJOryvSetjSnDVdKtMEtWAYoQ",
+"fphAScLJO3Z5NlGz7tmMEvJTSVw_CbmxFV-EQz2c6fnhCB9SiqleboPc0EqS3vTGqFTPdfr7b0K3wA",
+"7k3zBlnCFT6od2Ce8R33KarECFaLXLOwUVdwQy61i79L6mqKt6bWfBKRSvwgM5l0f7-c94Xi3S75bg",
+"tAqodyxsyw3QtMzEhA-xDWV-9CfVjNhYhzAer-outO6jG_6m4eldM5dNj6MYkDIw4AtffEycV7mUpw",
+"G4f2x6ncT5_N8XFknicMZFpCDHIu_NYLxFXBqCQZis3PKlJE_PMOXQO3UmYbuMyNVOt6OL5gUqCQfA",
+"ZdwJjhEjyA-bahsg4ZKY-UjZ5_z_F1WXdgjkkjoSYc4mbRmKDXQeojXyJwIHB2uG9MC2n55zoRKZAw",
+"IWbaHUR5QNJMAjNMuG7iI8_LRaFgHBb6RAK4jDobz4IMhdk6Lr-PtczufVHfKEZ5v1mCtR7iM1t1mQ",
+"ezWb2BOjWTtBJREg8bsZ5pSBngaZPkJlsLo5OID-gSMqdoLoJuJrn0dd-gIFU15IvgDnOdixdFwNIg"
+],
+"participants": [
+{
+"augments": [
+"TFT6_Augment_ForceOfNature",
+"TFT6_Augment_ThrillOfTheHunt1",
+"TFT7_Augment_RagewingScorch"
+],
+"companion": {
+"content_ID": "d390a59c-90a6-4af4-b4d1-7ea39503487c",
+"skin_ID": 16,
+"species": "PetPegasus"
+},
+"gold_left": 1,
+"last_round": 27,
+"level": 8,
+"placement": 6,
+"time_eliminated": 1641.6199,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 7,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Senna",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+47,
+66,
+2426
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_Redemption",
+"TFT_Item_DragonsClaw",
+"TFT7_Item_DragonmancerEmblemItem"
+],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+29,
+16
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_LastWhisper",
+"TFT_Item_Bloodthirster"
+],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+14
+],
+"character_id": "TFT7_Bard",
+"itemNames": [
+"TFT_Item_SpearOfShojin"
+],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ForceOfNature",
+"TFT6_Augment_ThrillOfTheHunt1",
+"TFT7_Augment_RagewingScorch"
+],
+"companion": {
+"content_ID": "d390a59c-90a6-4af4-b4d1-7ea39503487c",
+"skin_ID": 16,
+"species": "PetPegasus"
+},
+"gold_left": 1,
+"last_round": 27,
+"level": 8,
+"placement": 6,
+"time_eliminated": 1641.6199,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 7,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Senna",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+47,
+66,
+2426
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_Redemption",
+"TFT_Item_DragonsClaw",
+"TFT7_Item_DragonmancerEmblemItem"
+],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+29,
+16
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_LastWhisper",
+"TFT_Item_Bloodthirster"
+],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+14
+],
+"character_id": "TFT7_Bard",
+"itemNames": [
+"TFT_Item_SpearOfShojin"
+],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ForceOfNature",
+"TFT6_Augment_ThrillOfTheHunt1",
+"TFT7_Augment_RagewingScorch"
+],
+"companion": {
+"content_ID": "d390a59c-90a6-4af4-b4d1-7ea39503487c",
+"skin_ID": 16,
+"species": "PetPegasus"
+},
+"gold_left": 1,
+"last_round": 27,
+"level": 8,
+"placement": 6,
+"time_eliminated": 1641.6199,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 7,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Senna",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+47,
+66,
+2426
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_Redemption",
+"TFT_Item_DragonsClaw",
+"TFT7_Item_DragonmancerEmblemItem"
+],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+29,
+16
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_LastWhisper",
+"TFT_Item_Bloodthirster"
+],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+14
+],
+"character_id": "TFT7_Bard",
+"itemNames": [
+"TFT_Item_SpearOfShojin"
+],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ForceOfNature",
+"TFT6_Augment_ThrillOfTheHunt1",
+"TFT7_Augment_RagewingScorch"
+],
+"companion": {
+"content_ID": "d390a59c-90a6-4af4-b4d1-7ea39503487c",
+"skin_ID": 16,
+"species": "PetPegasus"
+},
+"gold_left": 1,
+"last_round": 27,
+"level": 8,
+"placement": 6,
+"time_eliminated": 1641.6199,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 7,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Senna",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+47,
+66,
+2426
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_Redemption",
+"TFT_Item_DragonsClaw",
+"TFT7_Item_DragonmancerEmblemItem"
+],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+29,
+16
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_LastWhisper",
+"TFT_Item_Bloodthirster"
+],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+14
+],
+"character_id": "TFT7_Bard",
+"itemNames": [
+"TFT_Item_SpearOfShojin"
+],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ForceOfNature",
+"TFT6_Augment_ThrillOfTheHunt1",
+"TFT7_Augment_RagewingScorch"
+],
+"companion": {
+"content_ID": "d390a59c-90a6-4af4-b4d1-7ea39503487c",
+"skin_ID": 16,
+"species": "PetPegasus"
+},
+"gold_left": 1,
+"last_round": 27,
+"level": 8,
+"placement": 6,
+"time_eliminated": 1641.6199,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 7,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Senna",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+47,
+66,
+2426
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_Redemption",
+"TFT_Item_DragonsClaw",
+"TFT7_Item_DragonmancerEmblemItem"
+],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+29,
+16
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_LastWhisper",
+"TFT_Item_Bloodthirster"
+],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+14
+],
+"character_id": "TFT7_Bard",
+"itemNames": [
+"TFT_Item_SpearOfShojin"
+],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ForceOfNature",
+"TFT6_Augment_ThrillOfTheHunt1",
+"TFT7_Augment_RagewingScorch"
+],
+"companion": {
+"content_ID": "d390a59c-90a6-4af4-b4d1-7ea39503487c",
+"skin_ID": 16,
+"species": "PetPegasus"
+},
+"gold_left": 1,
+"last_round": 27,
+"level": 8,
+"placement": 6,
+"time_eliminated": 1641.6199,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 7,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Senna",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+47,
+66,
+2426
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_Redemption",
+"TFT_Item_DragonsClaw",
+"TFT7_Item_DragonmancerEmblemItem"
+],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+29,
+16
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_LastWhisper",
+"TFT_Item_Bloodthirster"
+],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+14
+],
+"character_id": "TFT7_Bard",
+"itemNames": [
+"TFT_Item_SpearOfShojin"
+],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ForceOfNature",
+"TFT6_Augment_ThrillOfTheHunt1",
+"TFT7_Augment_RagewingScorch"
+],
+"companion": {
+"content_ID": "d390a59c-90a6-4af4-b4d1-7ea39503487c",
+"skin_ID": 16,
+"species": "PetPegasus"
+},
+"gold_left": 1,
+"last_round": 27,
+"level": 8,
+"placement": 6,
+"time_eliminated": 1641.6199,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 7,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Senna",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+47,
+66,
+2426
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_Redemption",
+"TFT_Item_DragonsClaw",
+"TFT7_Item_DragonmancerEmblemItem"
+],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+29,
+16
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_LastWhisper",
+"TFT_Item_Bloodthirster"
+],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+14
+],
+"character_id": "TFT7_Bard",
+"itemNames": [
+"TFT_Item_SpearOfShojin"
+],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null
+]
+},
+{
+"augments": [
+"TFT6_Augment_ForceOfNature",
+"TFT6_Augment_ThrillOfTheHunt1",
+"TFT7_Augment_RagewingScorch"
+],
+"companion": {
+"content_ID": "d390a59c-90a6-4af4-b4d1-7ea39503487c",
+"skin_ID": 16,
+"species": "PetPegasus"
+},
+"gold_left": 1,
+"last_round": 27,
+"level": 8,
+"placement": 6,
+"time_eliminated": 1641.6199,
+"traits": [
+{
+"name": "Set7_Assassin",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Astral",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Bard",
+"num_units": 1,
+"style": 3,
+"tier_current": 1,
+"tier_total": 1
+},
+{
+"name": "Set7_Bruiser",
+"num_units": 2,
+"style": 1,
+"tier_current": 1,
+"tier_total": 4
+},
+{
+"name": "Set7_Cannoneer",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Cavalier",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Dragonmancer",
+"num_units": 3,
+"style": 1,
+"tier_current": 1,
+"tier_total": 3
+},
+{
+"name": "Set7_Guild",
+"num_units": 1,
+"style": 1,
+"tier_current": 1,
+"tier_total": 6
+},
+{
+"name": "Set7_Mystic",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Ragewing",
+"num_units": 7,
+"style": 2,
+"tier_current": 2,
+"tier_total": 3
+},
+{
+"name": "Set7_Shapeshifter",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Shimmerscale",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 4
+},
+{
+"name": "Set7_Swiftshot",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+},
+{
+"name": "Set7_Warrior",
+"num_units": 1,
+"style": 0,
+"tier_current": 0,
+"tier_total": 3
+}
+],
+"units": [
+{
+"items": [],
+"character_id": "TFT7_Sett",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Senna",
+"itemNames": [],
+"rarity": 0,
+"tier": 2
+},
+{
+"items": [],
+"character_id": "TFT7_Kayn",
+"itemNames": [],
+"rarity": 1,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Shen",
+"itemNames": [],
+"rarity": 1,
+"tier": 2
+},
+{
+"items": [
+46
+],
+"character_id": "TFT7_Swain",
+"itemNames": [
+"TFT_Item_Chalice"
+],
+"rarity": 2,
+"tier": 2
+},
+{
+"items": [
+47,
+66,
+2426
+],
+"character_id": "TFT7_Illaoi",
+"itemNames": [
+"TFT_Item_Redemption",
+"TFT_Item_DragonsClaw",
+"TFT7_Item_DragonmancerEmblemItem"
+],
+"rarity": 2,
+"tier": 1
+},
+{
+"items": [],
+"character_id": "TFT7_Hecarim",
+"itemNames": [],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+29,
+16
+],
+"character_id": "TFT7_Xayah",
+"itemNames": [
+"TFT_Item_LastWhisper",
+"TFT_Item_Bloodthirster"
+],
+"rarity": 3,
+"tier": 2
+},
+{
+"items": [
+14
+],
+"character_id": "TFT7_Bard",
+"itemNames": [
+"TFT_Item_SpearOfShojin"
+],
+"rarity": 5,
+"tier": 1
+},
+null,
+null,
+null
+]
+}
+]
+}
+],
+"count": 10
+}

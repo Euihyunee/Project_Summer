@@ -1,5 +1,6 @@
 import java.util.HashMap;
 
+// flyweightFactory
 public class ShapeFactory {
     private static final HashMap<String, Circle> circleMap = new HashMap<>();
 

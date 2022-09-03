@@ -1,3 +1,4 @@
+import java.util.ArrayList;
 import java.util.List;
 
 public class PrototypePatternTest {
@@ -17,6 +18,9 @@ public class PrototypePatternTest {
         System.out.println("emps List: "+emps.getEmpList());
         System.out.println("empsNew List: "+list);
         System.out.println("empsNew1 List: "+list1);
+
+        List<Student> list = new ArrayList<>(student);
+
     }
 
 }
